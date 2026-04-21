@@ -6,7 +6,7 @@
 ################################################################################################
 
 sudo apt update -y  # It will update repo 
-sudo apt install fontconfig openjdk-21-jre # It will install Openjdk
+sudo apt install openjdk-21-jdk -y # It will install Openjdk
 
 sudo java -version  # It will check java version
 
